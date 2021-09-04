@@ -5,7 +5,7 @@ This is my workaround for the problem of including images in Wiki documentation.
 
 The other options available are not practical, or too time-consuming for what I want to do. The alternatives would be: clone the Wiki locally and upload the image to it etc... that is too long and complicated for the simple task of including an image. Likewise for doing it via a gist. I'm also not thrilled with the workaround of putting it the comments field of an issue, if for no other reason that I then don't have control over it easily if I wish to delete the image later.
 
-Since documentation images are not strictly speaking part of the source code, I don't want to clutter up my code with an image folder. Indeed, this is why I'm using the Wiki for documentation, so I don't clutter up the repo itself with in-depth documentation.
+Since documentation images are not strictly speaking part of the source code, I don't want to clutter up my code with an image folder. 
 
 Therefore, having a separate repository purely for images for documentation purposes is the only viable solution remaining. This repository will hold images for all my repository documentation needs, and I will keep the images in folders, one folder per repo, named in a (hopefully) meaningful way.
 
