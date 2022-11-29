@@ -1,5 +1,5 @@
 # Documentation-Images
-A place to store my images that I'm using in Wiki documentation in my other repos. Not of interest in itself.
+A place to store my images that I'm using in Wiki or other documentation in my other repos. Not of interest in itself.
 
 This is my workaround for the problem of including images in Wiki documentation. I will host the images in this repository, and be able to display them in the other repository via a link in Markdown format.
 
